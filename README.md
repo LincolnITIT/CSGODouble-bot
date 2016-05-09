@@ -1,5 +1,5 @@
 # CSGODouble.com Auto betting bot(Added number predictions)
-### Userscript that bets for you! Automates betting on [CSGODouble](http://www.csgodouble.com/) (works with [CSGOPolygon](http://csgopolygon.com/)).
+### Userscript that bets for you! Automates betting on [CSGODouble](http://www.csgodouble.com/)
 
 Program interface
 
