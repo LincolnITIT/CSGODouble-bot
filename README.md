@@ -14,11 +14,11 @@ Full site dark mode
 
 2nd option of installation
 
-1 - Open csgodouble.com in the main page (bets).
-2 - Open the console (SHIFT+CRTL+J)
-3 - Copy the code of csgodouble-bot-automated.js and paste in console.
-4 - The page will change and you chose what you want and next click start. 
-After just need to leave page open and bot will do everyting. 35% profit 
+!1 - Open csgodouble.com in the main page (bets).
+!2 - Open the console (SHIFT+CRTL+J)
+!3 - Copy the code of csgodouble-bot-automated.js and paste in console.
+!4 - The page will change and you chose what you want and next click start. 
+!After just need to leave page open and bot will do everyting. 35% profit 
 
 ## Is it safe?
 
@@ -104,48 +104,4 @@ In fact streaks like that are more natural for real randomness than you probably
 Because when you look on the history, you may think it's the safest option to go rainbow - the site don't pay me enough (in fact - they don't pay me at all :anguished:) to say it's true, but... Well, you may feel better!
 
 *[They say it is not, but we don't care, right?](https://www.youtube.com/watch?v=AYnJv68T3MM)
-
-
-## Changelog
-
-1.40:
-
-- Work with new sites.
-
-1.31:
-
-- Compatible with CSGOPolygon.com
-- Two new modes - bet on random color, bet on last winning color
-
-1.26:
-
-- New bet system - `D'alembert`
-
-1.25:
-
-- New bet system - `Bet on green`, uses fibonacci sequence.
-
-1.24:
-
-- Great martingale
-
-1.23:
-
-- Base bet calculation based on given failsafe value
-
-
-1.22:
-
-- Auto reconnect (without reloading the page!);
-- Switched to chat notifications - no longer need to open the console;
-- Fixed an issue when the script bets twice right after starting;
-- Fixed an issue when changing bet color;
-- Fixed intervals not being cleared after stopping (backend change);
-- Removed an option to bet negative values;
-
-
-1.2:
-
-- Dark theme
-
 
