@@ -18,7 +18,7 @@ Full site dark mode
 2. - Open the console (SHIFT+CRTL+J)
 3. - Copy the code of csgodouble-bot-automated.js and paste in console.
 4. - The page will change and you chose what you want and next click start. 
-!After just need to leave page open and bot will do everyting. 35% profit 
+5. Finish - After just need to leave page open and bot will do everyting. 35% profit 
 
 ## Is it safe?
 
